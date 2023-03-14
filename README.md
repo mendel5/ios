@@ -13,8 +13,8 @@ How to set up and configure Apple's iOS on iPhone and iPad
 - https://www.saintlad.com/difference-between-restart-and-force-restart-on-iphone/ What’s the Difference Between Restart and Force Restart on iPhone
 
 ### In case of emergency: Forced restart
-- https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios
-- https://support.apple.com/guide/ipad/force-restart-ipad-ipad9955c007/ipados
+- https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios Force restart an iPhone
+- https://support.apple.com/guide/ipad/force-restart-ipad-ipad9955c007/ipados Force restart an iPad
 
 ## Identify your iPad model
 - https://support.apple.com/en-us/HT201296 Identify your iPhone model
