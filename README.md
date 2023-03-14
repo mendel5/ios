@@ -7,7 +7,7 @@ How to set up and configure Apple's iOS on iPhone and iPad
 - https://support.apple.com/en-us/HT201559 Restart your iPhone
 - https://support.apple.com/en-us/HT210631 Restart your iPad
 
-### Why not to do a forced restart
+### Why not to do a force restart
 
 > A force restart is at the hardware level, not the software level. \[A force restart] does nothing more than cut the power and turn the device back on again. **This means that \[a force restart] doesn't clear any caches or reset anything. A regular restart actually does more than a force restart.**
 
