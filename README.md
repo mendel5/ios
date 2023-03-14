@@ -1,5 +1,6 @@
 # ios
 How to set up and configure Apple's iOS on iPhone and iPad
+- See also: https://github.com/mendel5/mac-setup
 
 ## How to restart an iPhone? / Don't do a force restart!
 ### Normal restart
