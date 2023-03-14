@@ -33,7 +33,7 @@ Source: https://discussions.apple.com/thread/253751350 Is hard reset harmful for
 
 Source: https://www.saintlad.com/difference-between-restart-and-force-restart-on-iphone/ What’s the Difference Between Restart and Force Restart on iPhone
 
-### In case of emergency: Forced restart
+### In case of emergency: Force restart
 - https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios Force restart an iPhone
 - https://support.apple.com/guide/ipad/force-restart-ipad-ipad9955c007/ipados Force restart an iPad
 
