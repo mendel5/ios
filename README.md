@@ -40,3 +40,9 @@ Source: https://www.saintlad.com/difference-between-restart-and-force-restart-on
 ## Identify your iPhone/iPad model
 - https://support.apple.com/en-us/HT201296 Identify your iPhone model
 - https://support.apple.com/en-us/HT201471 Identify your iPad model
+
+## iOS 26: Liquid Glass
+How to change the look and design of Liquid Glass (iOS 26) to make it more functional and useful.
+- Einstellungen --> Bedienungshilfen --> Anzeige & Textgröße --> Transparenz reduzieren
+- Einstellungen --> Bedienungshilfen --> Bewegung --> Bewegung reduzieren (nicht empfohlen)
+- Einstellungen --> Hintergrundbild --> Aktuelles Hintergrundbild: Sperrbildschirm anpassen --> Auf die Uhrzeit tippen --> Ganz unten: Von `Glas` auf `Deckend` ändern --> Fertig
